@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TaskerData sr="" dvi="1" tv="5.1m">
+   <Task sr="task2">
+      <cdate>1524039207451</cdate>
+      <edate>1524039974455</edate>
+      <id>2</id>
+      <nme>Call Triangle</nme>
+      <pri>100</pri>
+      <Action sr="act0" ve="7">
+         <code>20</code>
+         <App sr="arg0">
+            <appClass>com.snapchat.android.LandingPageActivity</appClass>
+            <appPkg>com.snapchat.android</appPkg>
+            <label>Snapchat</label>
+         </App>
+         <Str sr="arg1" ve="3" />
+         <Int sr="arg2" val="0" />
+         <Int sr="arg3" val="1" />
+      </Action>
+      <Action sr="act1" ve="7">
+         <code>1732635924</code>
+         <Bundle sr="arg0">
+            <Vals sr="val">
+               <ActionId>com.snapchat.android:id/neon_header_search_bar</ActionId>
+               <ActionId-type>java.lang.String</ActionId-type>
+               <ActionType>16</ActionType>
+               <ActionType-type>java.lang.String</ActionType-type>
+               <FieldSelectionType>1</FieldSelectionType>
+               <FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+               <IsFirstAction>false</IsFirstAction>
+               <IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+               <IsTaskerAction>false</IsTaskerAction>
+               <IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+               <NearbyText>&lt;null&gt;</NearbyText>
+               <NearbyText-type>java.lang.String</NearbyText-type>
+               <StoredAction>&lt;null&gt;</StoredAction>
+               <StoredAction-type>java.lang.String</StoredAction-type>
+               <TextToWrite>&lt;null&gt;</TextToWrite>
+               <TextToWrite-type>java.lang.String</TextToWrite-type>
+               <com.twofortyfouram.locale.intent.extra.BLURB>Type: Id
+Value: com.snapchat.android:id/neon_header_search_bar
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+               <com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+               <net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+               <net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+               <plugininstanceid>182594ca-42e5-4119-8463-ea7cf0abdbe8</plugininstanceid>
+               <plugininstanceid-type>java.lang.String</plugininstanceid-type>
+               <plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+               <plugintypeid-type>java.lang.String</plugintypeid-type>
+            </Vals>
+         </Bundle>
+         <Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+         <Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+         <Int sr="arg3" val="20" />
+      </Action>
+      <Action sr="act2" ve="7">
+         <code>1732635924</code>
+         <Bundle sr="arg0">
+            <Vals sr="val">
+               <ActionId>&lt;null&gt;</ActionId>
+               <ActionId-type>java.lang.String</ActionId-type>
+               <ActionType>-1</ActionType>
+               <ActionType-type>java.lang.String</ActionType-type>
+               <FieldSelectionType>2</FieldSelectionType>
+               <FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+               <IsFirstAction>false</IsFirstAction>
+               <IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+               <IsTaskerAction>false</IsTaskerAction>
+               <IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+               <NearbyText>&lt;null&gt;</NearbyText>
+               <NearbyText-type>java.lang.String</NearbyText-type>
+               <StoredAction>&lt;null&gt;</StoredAction>
+               <StoredAction-type>java.lang.String</StoredAction-type>
+               <TextToWrite>Ⱑ</TextToWrite>
+               <TextToWrite-type>java.lang.String</TextToWrite-type>
+               <com.twofortyfouram.locale.intent.extra.BLURB>Type: Focus
+Text to Write : Ⱑ
+Action : Write</com.twofortyfouram.locale.intent.extra.BLURB>
+               <com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>TextToWrite FieldSelectionType ActionType plugininstanceid plugintypeid</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+               <net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+               <net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+               <plugininstanceid>287d00f3-617a-4dc7-8e5f-7166447a8d7e</plugininstanceid>
+               <plugininstanceid-type>java.lang.String</plugininstanceid-type>
+               <plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+               <plugintypeid-type>java.lang.String</plugintypeid-type>
+            </Vals>
+         </Bundle>
+         <Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+         <Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+         <Int sr="arg3" val="20" />
+      </Action>
+      <Action sr="act3" ve="7">
+         <code>1732635924</code>
+         <Bundle sr="arg0">
+            <Vals sr="val">
+               <ActionId>ⱑ Group Result</ActionId>
+               <ActionId-type>java.lang.String</ActionId-type>
+               <ActionType>16</ActionType>
+               <ActionType-type>java.lang.String</ActionType-type>
+               <FieldSelectionType>0</FieldSelectionType>
+               <FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+               <IsFirstAction>false</IsFirstAction>
+               <IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+               <IsTaskerAction>false</IsTaskerAction>
+               <IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+               <NearbyText>&lt;null&gt;</NearbyText>
+               <NearbyText-type>java.lang.String</NearbyText-type>
+               <StoredAction>&lt;null&gt;</StoredAction>
+               <StoredAction-type>java.lang.String</StoredAction-type>
+               <TextToWrite>&lt;null&gt;</TextToWrite>
+               <TextToWrite-type>java.lang.String</TextToWrite-type>
+               <com.twofortyfouram.locale.intent.extra.BLURB>Type: Text
+Value: ⱑ Group Result
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+               <com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+               <net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+               <net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+               <plugininstanceid>d7b257d3-0d17-4fe1-a589-6bec405345b7</plugininstanceid>
+               <plugininstanceid-type>java.lang.String</plugininstanceid-type>
+               <plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+               <plugintypeid-type>java.lang.String</plugintypeid-type>
+            </Vals>
+         </Bundle>
+         <Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+         <Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+         <Int sr="arg3" val="20" />
+      </Action>
+      <Action sr="act4" ve="7">
+         <code>1732635924</code>
+         <Bundle sr="arg0">
+            <Vals sr="val">
+               <ActionId>com.snapchat.android:id/chat_stream_video_button</ActionId>
+               <ActionId-type>java.lang.String</ActionId-type>
+               <ActionType>16</ActionType>
+               <ActionType-type>java.lang.String</ActionType-type>
+               <FieldSelectionType>1</FieldSelectionType>
+               <FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+               <IsFirstAction>false</IsFirstAction>
+               <IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+               <IsTaskerAction>false</IsTaskerAction>
+               <IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+               <NearbyText>&lt;null&gt;</NearbyText>
+               <NearbyText-type>java.lang.String</NearbyText-type>
+               <StoredAction>&lt;null&gt;</StoredAction>
+               <StoredAction-type>java.lang.String</StoredAction-type>
+               <TextToWrite>&lt;null&gt;</TextToWrite>
+               <TextToWrite-type>java.lang.String</TextToWrite-type>
+               <com.twofortyfouram.locale.intent.extra.BLURB>Type: Id
+Value: com.snapchat.android:id/chat_stream_video_button
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+               <com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+               <net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+               <net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+               <net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+               <net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+               <plugininstanceid>e4719964-aede-4153-839c-75a03c2636a1</plugininstanceid>
+               <plugininstanceid-type>java.lang.String</plugininstanceid-type>
+               <plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+               <plugintypeid-type>java.lang.String</plugintypeid-type>
+            </Vals>
+         </Bundle>
+         <Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+         <Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+         <Int sr="arg3" val="20" />
+      </Action>
+   </Task>
+</TaskerData>
